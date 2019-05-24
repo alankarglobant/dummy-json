@@ -15,7 +15,7 @@
          {
             "type":"education",
             "title":"ENAIP Santander",
-            "institution":"Tecnico Hardware\/Software, informatics, electronics, electrics",
+            "institution":"Tecnico Hardware/Software, informatics, electronics, electrics",
             "range":{
                "start":"2004-01-01T00:00:00.000Z",
                "end":"2008-01-01T00:00:00.000Z"
@@ -74,7 +74,7 @@
          },
          {
             "type":"work",
-            "title":"Front End Dev & UX\/UI Designer",
+            "title":"Front End Dev & UX/UI Designer",
             "employer":"Memrise",
             "range":{
                "start":"2012-08-31T23:00:00.000Z",
